@@ -7,6 +7,8 @@
 😄Gratidão!
 
 ##
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+
+<img align="center" alt="Raylla-Python" height="80" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">   
+<img align="center" alt="Raylla-Pycharm" height="80" width="60" src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg">   
+<img align="center" alt="Raylla-Mysql" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
