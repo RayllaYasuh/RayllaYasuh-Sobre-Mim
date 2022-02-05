@@ -1,4 +1,4 @@
-# Olá! Sou a Raylla_Yasuh >.<
+# Sobre mim! >.<
 
 👩🏻‍💻Estudando sobre Design Gráfico, Python, Pycharm e Banco de Dados.
 
