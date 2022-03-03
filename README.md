@@ -1,10 +1,10 @@
 # Sobre mim! >.<
 
-👩🏻‍💻Estudando sobre Design Gráfico, Python, Pycharm e Banco de Dados.
+👩🏻‍💻- Estudando sobre Design Gráfico, Python, Pycharm e Banco de Dados.
 
-🎇Apelidos: Ray, Ya e Yasu.
+🎇- Apelidos: Ray, Ya e Yasu.
 
-😄Gratidão!
+😄- Gratidão e obrigada por ler!
 
 ##
 
